@@ -24,7 +24,7 @@ The overall task of this project was to analyze and visualize the ride share dat
 #### Figure 4. Ride Fares by City Type
 ![png](Desktop/Bootcamp/Module_5/PyBer_Analysis/Resources/analysis/RideFaresData.png)
 #### Figure 5. Percentage of Total Fares by City Type
-![%TotalFaresbyCityType]([%ofTotalFaresbyCityType.png](https://github.com/mleroseandrews/PyBer_Analysis/blob/main/%25TotalFaresbyCityType.jpg))
+![%TotalFaresbyCityType](https://user-images.githubusercontent.com/116030873/205817128-903088bc-57f5-4f20-a5f0-09bae09c0dbd.png)
 
 
 #### Summary
