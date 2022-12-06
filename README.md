@@ -16,13 +16,13 @@ The overall task of this project was to analyze and visualize the ride share dat
 -Even though fare prices per rider is higher in rural areas, (Figure 4) the percentage of the overall fares by city type is lowest in rural areas with accounting for only 6.8% of the total fares.   (Figure 5)
 
 #### Figure 1. Ride Count by City Type
-![png](analysis/RideCountData.png)
+![RideCountData](https://user-images.githubusercontent.com/116030873/205818045-57eaf871-e8e0-4b1e-9004-cfc970148051.png)
 #### Figure 2. Driver Count by City Type
-![png](Resources/analysis/DriverData.png)
+![DriverData](https://user-images.githubusercontent.com/116030873/205817531-ad0f206f-db53-487b-984d-ac5a97c234da.png)
 #### Figure 3. Percentage of Drivers by City Type
-![png](PyBer_Analysis/Resources/analysis/%ofTotalDriversbyCityType.png)
+![%ofTotalDriversbyCityType](https://user-images.githubusercontent.com/116030873/205817489-f056d02a-abeb-4ac0-b38a-9c086f4a3a49.png)
 #### Figure 4. Ride Fares by City Type
-![png](Desktop/Bootcamp/Module_5/PyBer_Analysis/Resources/analysis/RideFaresData.png)
+![RideFaresData](https://user-images.githubusercontent.com/116030873/205817358-6bf58158-0ff8-4e76-97d0-3059df2c3394.png)
 #### Figure 5. Percentage of Total Fares by City Type
 ![%TotalFaresbyCityType](https://user-images.githubusercontent.com/116030873/205817128-903088bc-57f5-4f20-a5f0-09bae09c0dbd.png)
 
