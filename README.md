@@ -20,9 +20,9 @@ The overall task of this project was to analyze and visualize the ride share dat
 #### Figure 2. Driver Count by City Type
 ![image](Resources/analysis/DriverData.png)
 #### Figure 3. Percentage of Drivers by City Type
-![image](%ofTotalDriverbyCityType.png)
+![image](PyBer_Analysis/Resources/analysis/%ofTotalDriverbyCityType.png)
 #### Figure 4. Ride Fares by City Type
-![image}(RideFaresData.png)
+![image](Module_5/PyBer_Analysis/Resources/analysis/RideFaresData.png)
 #### Figure 5. Percentage of Total Fares by City Type
 ![image](%ofTotalFaresbyCityType.png)
 
