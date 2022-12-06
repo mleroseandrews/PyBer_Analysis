@@ -16,15 +16,15 @@ The overall task of this project was to analyze and visualize the ride share dat
 -Even though fare prices per rider is higher in rural areas, (Figure 4) the percentage of the overall income by city type is lowest in rural areas with accounting for only 6.8% of the total fares.   (Figure 5)
 
 #### Figure 1. Ride Count by City Type
-![png](RideCountData.png)
+![image](RideCountData.png)
 #### Figure 2. Driver Count by City Type
-![png](DriverData.png)
+![image](DriverData.png)
 #### Figure 3. Average Fare Price per Rider
-![png](%ofTotalDriverbyCityType)
+![image](%ofTotalDriverbyCityType)
 #### Figure 4. Ride Fares by City Type
-![png}(RideFaresData.png)
+![image}(RideFaresData.png)
 #### Figure 5. Percentage of Total Drivers by City Type
-![png](%ofTotalDriversbyCityType.png)
+![image](%ofTotalDriversbyCityType.png)
 
 #### Summary
 After analyzing the data there are 3 business recommendations for the CEO of PyBer.   Ride Share iniatives, marketing and driver incentives would be highly recommended for rural areas since it takes the driver longer to get from the pickup location to drop-off.  Since there are less drivers, the wait time is more than likely higher.    With that being said, I would recommend analyzing the data on wait times between when a driver requests a ride and when they are picked up.   I would also recommend analyzing the data on the duration of the ride by city type.   This data can make sure that the number of drivers in the area is sufficient to meet the needs of the rider is the area.   By lowering wait times you can make sure that Pyber is the #1 ride share company that riders choose in the area.  
